@@ -20,8 +20,8 @@ A simple movie recommender system built using Python, featuring collaborative an
    pip install pandas surprise scikit-learn
    ```
 
-3. **Run the Jupyter Notebook:**
-   Open `Netflix_Recommender.ipynb` in Jupyter Notebook or Google Colab and run the cells.
+3. **Run the Colab Notebook:**
+   Open `Netflix_Recommender.ipynb` in Google Colab and run the cells.
 
 ##  How to Use
 
